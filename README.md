@@ -1,7 +1,7 @@
 ## Hi there👋
-## I'm Daria - Data Analyst/ BI-analyst
+## I'm Daria - **Data Analyst/ BI-analyst**
 
-🔭 I've been working as a project analyst for the last three years
+🔭 I've been working as a **Project Analyst** for the last three years
 
 ⚡Inspired by TG-channels "Reveal the Data" и "Настенька и графики"
 
