@@ -12,7 +12,7 @@
 # Technologies and tools:
 
 - PostgreSQL, Clickhouse;
-- Python (pandas, Matplotlib);
+- Python (pandas, seaborn, numpy, Matplotlib);
 - PySpark, Apache Airflow;
 - Superset, DataLens, Power BI;
 - Miro, Jupyter Notebook, DBeaver.
