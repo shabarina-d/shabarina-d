@@ -2,6 +2,9 @@
 ## I'm Daria - Data Analyst/ BI-analyst
 
 🔭 I've been working as a project analyst for the last three years
-⚡Inspired by TG channels "Reveal the Data" и "Настенька и графики".
-💬 I am ready to complete the test assignment and pass the interview
+
+⚡Inspired by TG-channels "Reveal the Data" и "Настенька и графики"
+
+💬 I'm ready to complete the test assignment and pass the interview
+
 📫 How to reach me: https://t.me/d_shabarina
