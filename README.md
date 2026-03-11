@@ -11,4 +11,8 @@
 
 # Technologies and tools:
 
-PostgreSQL, Clickhouse, Jupyter Notebook, Python (pandas, Matplotlib),  PySpark, Apache Airflow, Superset, DataLens, Power BI, Miro
+- PostgreSQL, Clickhouse;
+- Python (pandas, Matplotlib);
+- PySpark, Apache Airflow;
+- Superset, DataLens, Power BI;
+- Miro, Jupyter Notebook, DBeaver.
