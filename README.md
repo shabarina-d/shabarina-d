@@ -8,3 +8,7 @@
 💬 I'm ready to complete the test assignment and pass the interview
 
 📫 How to reach me: https://t.me/d_shabarina
+
+# Technologies and tools:
+
+PostgreSQL, Clickhouse, Jupyter Notebook, Python (pandas, Matplotlib),  PySpark, Apache Airflow, Superset, DataLens, Power BI, Miro
