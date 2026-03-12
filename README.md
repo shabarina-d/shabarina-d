@@ -1,4 +1,4 @@
-## Data Analyst/ BI-analyst
+# Data Analyst/ BI-analyst
 
 🔭 За спиной 8 лет опыта в продажах, а последние 3 года работаю **Аналитиком проектного отдела / Project Analyst**
 
@@ -10,7 +10,7 @@
 
 📫 Способ связи: https://t.me/d_shabarina
 
-# Стек:
+## Стек:
 
 - PostgreSQL, Clickhouse;
 - Python (pandas, seaborn, numpy, Matplotlib);
