@@ -1,15 +1,15 @@
-## Hi there👋
-## I'm Daria - **Data Analyst/ BI-analyst**
+## Data Analyst/ BI-analyst
 
-🔭 I've been working as a **Project Analyst** for the last three years
+🔭 За спиной 8 лет опыта в продажах, а последние 3 года работаю **Аналитиком проектного отдела / Project Analyst**
+Осознание значимости данных для принятия управленческих решений и повышения эффективности бизнеса стало для меня ключевым мотивом для смены профессиональной деятельности. Поэтому приняла решение сосредоточиться на аналитике данных, автоматизации отчетности и моделировании прогнозов. В рамках этого направления я углубилась в изучение SQL и Python, а также работаю с различными BI-инструментами для визуализации данных.
 
-⚡Inspired by TG-channels "Reveal the Data" и "Настенька и графики"
+⚡Вдохновляюсь тг-каналами "Reveal the Data" и "Настенька и графики"
 
-💬 I'm ready to complete the test assignment and pass the interview
+💬 Хочу расти в профессиональной команде, где ценят системный подход к управлению проектами и развитие специалистов. Готова выполнить тестовое заданиеи пройти собеседование.
 
-📫 How to reach me: https://t.me/d_shabarina
+📫 Способ связи: https://t.me/d_shabarina
 
-# Technologies and tools:
+# Стек:
 
 - PostgreSQL, Clickhouse;
 - Python (pandas, seaborn, numpy, Matplotlib);
