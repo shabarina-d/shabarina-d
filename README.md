@@ -8,9 +8,11 @@
 
 💬 Хочу расти в профессиональной команде, где ценят системный подход к управлению проектами и развитие специалистов. Готова выполнить тестовое заданиеи пройти собеседование.
 
-📫 Способ связи: https://t.me/d_shabarina
+📫 Способы связи: 
+- Telegram: https://t.me/d_shabarina
+- Email: shabarina_d@mail.ru
 
-## Стек:
+## 🛠 Стек технологий:
 
 - PostgreSQL, Clickhouse;
 - Python (pandas, seaborn, numpy, Matplotlib);
